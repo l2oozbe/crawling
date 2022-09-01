@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <io.springfox.version>2.9.2</io.springfox.version>
         <org.mapstruct.version>1.3.0.Beta2</org.mapstruct.version>
-        <org.jsoup.version>1.12.1</org.jsoup.version>
+        <org.jsoup.version>1.15.3</org.jsoup.version>
         <com.google.guava.version>22.0</com.google.guava.version>
         <org.junit.jupiter.version>5.5.2</org.junit.jupiter.version>
         <junit-platform.version>1.3.2</junit-platform.version>
